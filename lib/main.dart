@@ -48,6 +48,7 @@ class _SeaBattleGameState extends State<SeaBattleGame> {
     isGameStarted = false;
     isComputerTurn = false;
     setState(() {});
+    //test
   }
 
   Future<void> fireCompShot() async {
